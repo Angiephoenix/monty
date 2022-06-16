@@ -1,6 +1,5 @@
 /*
  * File: errors_1.c
- * Auth: Angie Obiesie  
  */
 
 #include "monty.h"
