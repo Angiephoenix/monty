@@ -1,8 +1,3 @@
-/*
- * File: main.c
- * Auth: Angie Obiesie
- */
-
 #include "monty.h"
 #include <sys/types.h>
 #include <sys/stat.h>
